@@ -1,2 +1,2 @@
-first_number = get_variable_from_file
+first_number = 2
 second_number = 1
